@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://192.168.45.44:3306/kioskdb
+    url: jdbc:mysql://localhost:3306/kioskdb
     username: kiosk_user
     password: 1234
   jpa:
